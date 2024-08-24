@@ -6,9 +6,9 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import "bootstrap/dist/js/bootstrap.bundle.min.js";
 
 //Importing other child components
-import Header from "./Components/Header";
-import Footer from "./Components/Footer";
-import ProductList from "./Components/ProductList";
+import Header from "./components/Header";
+import Footer from "./components/Footer";
+import ProductList from "./components/ProductList";
 
 //Importing Provider from react-redux third party library to give store to the child components
 import { Provider } from "react-redux";
