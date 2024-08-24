@@ -3,6 +3,7 @@
 
 This is an sample cart page website which is based on React-Redux which was designed by using React. 
 It's Guvi-Zen class Roadmap session: Day-32 and React-Redux: Day-12 Task.
+
 Deployed URL : https://reduxdrill.netlify.app
 
 ## Tech Stack
